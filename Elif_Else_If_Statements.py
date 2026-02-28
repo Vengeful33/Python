@@ -1,10 +1,13 @@
 
+#elif can be used when there is a second condition, else would be the last "Everything Else" condition
+
 time = 9
 if time >= 10:
     print("Noon")
 elif time <= 10:
     print("Good Morning")
-#elif can be used when there is a second condition, else would be the last "Everything Else" condition
+
+#You can use a table like so. You can add more elifs to this statement. 
 
 Hour = 10
 if Hour == 12:
@@ -13,4 +16,3 @@ elif Hour == 18:
     print("Night")
 else:
     print("Morning")
-#You can use a table like so. You can add more elifs to this statement. 

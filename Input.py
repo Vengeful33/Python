@@ -6,7 +6,7 @@ print(input1)
 
 #This prints whatever you want down below.
 
-input2 = input("What is your name")
+input2 = input("What is your name?")
 input3 = input("How old are you?")
 print(input2)
 print(input3)

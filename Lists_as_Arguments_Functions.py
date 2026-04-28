@@ -30,3 +30,5 @@ name = ["Sarah", "Carly", "Abigal"]
 find_best_date(name)
 
 #This will print Carly, we can also use name[1] as a variable and have it return
+
+#We are also able to use while and for loops in funcions as well.
